@@ -1,4 +1,4 @@
-# Welcome to Cards Against How Might We CaHMW
+# Welcome to Cards Against How Might We (CaHMW)
 
 This game was created to help people practice the art of forming how might we questions (HMWs) as a response to common blockers. There is no way to “win or lose” at this game, but rather to help a group learn together and practice.
 
