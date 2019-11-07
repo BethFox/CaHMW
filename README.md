@@ -8,7 +8,7 @@ Often in large organizations we experience blockers that a ‘How Might We?’ (
 ## Files 
 * You Can Use You can use the (CaHMW-moderator guide.docx) when planning your session. 
 * Instructions and Cheat Sheets will be needed while playing 
-* The Situation and Blocker Cards can be printed on card stock. You will need one set per group of 4-6 players
+* The Situation and Blocker Cards can be printed on card stock. You will need one set per group of 4-6 players.
 
 ### License 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/
