@@ -6,8 +6,7 @@ This game was created to help people practice the art of forming how might we qu
 Often in large organizations we experience blockers that a ‘How Might We?’ (HMW) question could unlock. It’s our hypothesis that teaching and practicing this skill to everyone could help empower people in their own organizations to help create the conditions for change. It is a great activity in the context of other group sessions focused on change or innovation.
 
 ## Files 
-* You Can Use You can use the [Moderator Guide](/files/CaHMW-moderator guide.docx) when planning your session. 
-* We have also provided our Power Point introduction slides to get an idea of how we introduce the concept of How Might We and the the game. 
+* You Can Use You can use the (CaHMW-moderator guide.docx) when planning your session. 
 * Instructions and Cheat Sheets will be needed while playing 
 * The Situation and Blocker Cards can be printed on card stock. You will need one set per group of 4-6 players
 
