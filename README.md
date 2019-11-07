@@ -8,7 +8,7 @@ Often in large organizations we experience blockers that a ‘How Might We?’ (
 ## Files 
 * Use the **Moderator Guide** when planning your session. 
 * Print **Instructions** and **Cheat Sheet** for participants to use while playing. 
-* The **Situation** & **Blocker Cards** can be printed on card stock. You will need one set per group of 4-6 players.
+* The **Situation** & **Blocker Cards** can be printed on card stock. You will need one set of each per group of 4-6 players.
 
 ### License 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. http://creativecommons.org/licenses/by-nc-sa/4.0/
